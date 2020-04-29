@@ -1,2 +1,0 @@
-# Sachi
-Hello world 
